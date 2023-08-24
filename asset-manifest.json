@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/julian.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/julian.github.io/static/js/main.49834296.js",
+    "static/js/787.f7a142a8.chunk.js": "/julian.github.io/static/js/787.f7a142a8.chunk.js",
+    "index.html": "/julian.github.io/index.html",
+    "main.e6c13ad2.css.map": "/julian.github.io/static/css/main.e6c13ad2.css.map",
+    "main.49834296.js.map": "/julian.github.io/static/js/main.49834296.js.map",
+    "787.f7a142a8.chunk.js.map": "/julian.github.io/static/js/787.f7a142a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49834296.js"
+  ]
+}
